@@ -4,4 +4,4 @@ CC = gcc
 all: main
 
 main: src/main.c
-	$(CC) $(CFLAGS) -o main src/main.c
+	$(CC) $(CFLAGS) -o todoc src/main.c
